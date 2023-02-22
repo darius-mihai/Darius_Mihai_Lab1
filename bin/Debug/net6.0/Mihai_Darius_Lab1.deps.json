@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Mihai_Darius_Lab1/1.0.0": {
+        "runtime": {
+          "Mihai_Darius_Lab1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mihai_Darius_Lab1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
